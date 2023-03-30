@@ -1,0 +1,12 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <h2>About Us</h2>
+      <input type="text" placeholder="Input here..." #val>
+      <button (click)="submitValue(val)">Submit Value</button>
+      <app-comp-child *ngIf="compChildExist" [myValue]="value">ngContent: {{value}}</app-comp-child>
+      <br><br>
+      <button (click)="destroy()" class="btn btn-danger">Destroy Component</button>
+    </div>
+  </div>
+</div>

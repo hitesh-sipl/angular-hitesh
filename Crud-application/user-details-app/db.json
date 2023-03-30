@@ -1,0 +1,93 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Ved",
+      "lastName": "Rawat",
+      "email": "ved@gmail.com",
+      "dob": "2014-02-14T18:30:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "Softude",
+      "experience": 11,
+      "package": 12.65,
+      "id": 1
+    },
+    {
+      "firstName": "Ankit",
+      "lastName": "Verma",
+      "email": "ankit@gmail.com",
+      "dob": "1996-06-02T18:30:00.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "Softude",
+      "experience": 5,
+      "package": 8,
+      "id": 3
+    },
+    {
+      "firstName": "Girish",
+      "lastName": "Harpude",
+      "email": "girish@gmail.com",
+      "dob": "1986-03-20T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post-Graduate",
+      "company": "Softude",
+      "experience": 8,
+      "package": 14,
+      "id": 4
+    },
+    {
+      "firstName": "Rup",
+      "lastName": "Singh",
+      "email": "rupsingh@test.com",
+      "dob": "2016-08-14T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "ABC",
+      "experience": 4,
+      "package": 8,
+      "id": 6
+    },
+    {
+      "firstName": "Ved",
+      "lastName": "Rawat",
+      "email": "ved@gmail.com",
+      "dob": "2014-02-14T18:30:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "Softude",
+      "experience": 12,
+      "package": 12.65,
+      "id": 8
+    },
+    {
+      "firstName": "Ved",
+      "lastName": "Rawat",
+      "email": "ved@gmail.com",
+      "dob": "2014-02-14T18:30:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "Softude",
+      "experience": 12,
+      "package": 12.6,
+      "id": 9
+    }
+  ]
+}
